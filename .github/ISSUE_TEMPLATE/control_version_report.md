@@ -1,13 +1,13 @@
 ---
-name: "🔀 Control Flug"
+name: "🔀 Control Flow"
 
 about: "Add work flow"
 
 title: "[WORKFLOW] - Describe the workflow"
 
-labels: flow
+labels:  bug, critical, ui
 
-assignees: ""
+assignees: "assignees: tu_usuario, compañero_usuario"
 ---
 
 
