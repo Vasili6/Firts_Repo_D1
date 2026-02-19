@@ -1,9 +1,22 @@
-#This version is :
+---
+name: "🔀 Control Flug"
 
-#Contains :
+about: "Add work flow"
 
-Date and Time:
+title: "[WORKFLOW] - Describe the workflow"
+
+labels: flow
+
+assignees: ""
+---
 
 
-Image of your workflow:
+
+###This version is :
+
+###Contains :
+
+###Date and Time:
+
+###Diagram of your workflow:
 
